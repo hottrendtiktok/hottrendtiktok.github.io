@@ -5483,3 +5483,10 @@ contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
 smartadserver.com, 4539, RESELLER, 060d053dcf45cbf3
 consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 conversantmedia.com, 100322, RESELLER, 03113cd04947736d
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com, 3284022788306553, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
+google.com,pub-4686405784285870, RESELLER, f08c47fec0942fa0
