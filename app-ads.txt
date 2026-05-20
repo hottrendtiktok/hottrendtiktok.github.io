@@ -18106,3 +18106,5 @@ revealon.media, 18069, RESELLER
 smartadserver.com, 5044, RESELLER, 060d053dcf45cbf3
 blasto.ai, 935, RESELLER, 7e936b1feafdaa61
 onetag.com, 960409b77c81289, RESELLER
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com,3284022788306553,direct
